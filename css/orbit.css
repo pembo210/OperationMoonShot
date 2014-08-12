@@ -1,5 +1,5 @@
 /* CSS Document */
-html, body {
+#home {
 	background-image:url(../img/Apollo_11_lunar_module-edit.png);
 	background-color:#000;
 	background-position: center bottom ;
@@ -8,6 +8,16 @@ html, body {
 	height:99%;
 	margin:0;
 }
+#command-center {
+	background-image:url(../img/space-station.png);
+	background-color:#000;
+	background-position: center bottom ;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	height:99%;
+	margin:0;
+}
+
 a, a:visited {
 	color:#fff
 }
@@ -29,7 +39,7 @@ a, a:visited {
 	font-family:"Comic Sans MS", cursive;
 	font-size:22px;
 	color:#FFF;
-	padding:40px;
+	padding:0px 40px 0px 40px;
 }
 .address {
 	font-family:"Comic Sans MS", cursive;
