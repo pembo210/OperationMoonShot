@@ -2,10 +2,14 @@
 html, body {
 	background-image:url(../img/Apollo_11_lunar_module-edit.png);
 	background-color:#000;
-	background-position: center bottom;
+	background-position: center bottom ;
 	background-repeat:no-repeat;
+	background-attachment: fixed;
 	height:99%;
 	margin:0;
+}
+a, a:visited {
+	color:#fff
 }
 .content{
 	position:relative;
@@ -23,7 +27,7 @@ html, body {
 }
 .address {
 	font-family:"Comic Sans MS", cursive;
-	font-weight:bold;
-	font-size:14px;
+	font-size:18px;
 	color:#FFF;
+	padding:20px
 }
