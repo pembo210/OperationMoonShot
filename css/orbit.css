@@ -1,0 +1,23 @@
+/* CSS Document */
+html, body {
+	background-image:url(../img/Apollo_11_lunar_module-edit.png);
+	background-color:#000;
+	background-position: center bottom;
+	background-repeat:no-repeat;
+	height:99%;
+	margin:0;
+}
+.content{
+	position:relative;
+
+}
+.small {
+	font-size: 12px;
+	color:#FFF;
+}
+.temp-message {
+	font-family:"Comic Sans MS", cursive;
+	font-weight:bold;
+	font-size:22px;
+	color:#FFF;
+}
