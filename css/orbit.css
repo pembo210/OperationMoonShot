@@ -25,6 +25,12 @@ a, a:visited {
 	font-size:22px;
 	color:#FFF;
 }
+.main-message {
+	font-family:"Comic Sans MS", cursive;
+	font-size:22px;
+	color:#FFF;
+	padding:50px;
+}
 .address {
 	font-family:"Comic Sans MS", cursive;
 	font-size:18px;
