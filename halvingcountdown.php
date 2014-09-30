@@ -28,10 +28,10 @@ $more6 = $remainingblocks600 * 60;
 $moreparty = $remainingblocksparty * 60;
 //seconds until plus current time
 $t = time();
-//set future times
-$more400 = $more4 + time();
-$more500 = $more5 + time();
-$more600 = $more6 + time();
+//set future times and offset
+$more400 = $more4 - 14400 + time();
+$more500 = $more5 - 14400 + time();
+$more600 = $more6 - 14400 + time();
 $moreparty = $moreparty + time();
 ?>    
    
