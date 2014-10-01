@@ -44,7 +44,7 @@ $moreparty = $moreparty + time();
         	</div><br>
 <!--birthday-->        	
   	        <div align="center" style="background: url('http://operationmoonshot.com/images/wow_much_coin.png') center repeat #222">
-            <div style="width: 500px;padding:1px;background: rgba(34,34,34,0.4); border-radius:0px"><h4><strong><font style="text-shadow:0px 1px 2px #000"><?php echo "Happy Birthday Dogecoin - Dec 8, 2014";?></font></h4></div>
+            <div style="width: 500px;padding:1px;background: rgba(34,34,34,0.4); border-radius:0px"><h4><strong><font style="text-shadow:0px 1px 2px #000">Happy Birthday Dogecoin - Dec 8, 2014</font></h4></div>
             <div id="DateCountdown4" data-date="2014-12-8 00:00:00" 
             style="width: 500px; height: 125px; padding: 0px; box-sizing: border-box; background: rgba(34,34,34,0.4); border-radius:0px">
             </div>
